@@ -48,10 +48,8 @@
   15. O resultado do GBC foi de 88.75% e o R2 da regressão foi de 85%.
 
 # Conclusion
-  Os homens são sem duvidas mais atacados por tubarões em quase todas as regiões do mundo, as principais atividades que originam ataques, são surfe, nadar no mar e pesca,
-  sobre essas atividades é interessante ver como a atividade de pesca é em grande parte praticada por homens, uma vez que existe uma grande diferença nos ataques feito as mulheres pescando. 
- Além disso é interessante ver como os ataques as mulheres vêm aumentando nos últimos anos, uma vez que o número de ataques estão se equalizando independente do gênero.
- Hoje as atividades/esportes não apresentam mais barreiras em relação a sexo, assim é comum ver mulheres se aventurando mais e praticando atividades/esportes que antes eram centralizadas e comercializadas sobre o sexo masculino.
+  Utilizando os modelos de não surpevisionados de clusterização foi possível identificar as características demográficas de cada grupo, quando alinhado com 
+  a regressão, o modelo consegue prever quanto os clientes gastam ao longo do seu relacionamento com a empresa, assim o varejista consegue direcionar as campanhas de atração de novos clientes, otimizando seu resultado e reduzindo seu CAC. Ja o modelo de classifiação, consegue dizer se novos clientes ou até mesmo grupos de clientes estarão propensos a aceitar ou não as promoções realizadas pela empresa, concomitantemente a classificação juntamente com campanhas de marketing, conseguem trazer maior efetividade e eficiência, além de uma redução de custos para a equipe de marketing. 
   
 # Contact
   Linkedin: https://www.linkedin.com/in/lucas-perfeito-0a55381ab/ 
